@@ -1,0 +1,1 @@
+# esemenyszervezo_vizsga
