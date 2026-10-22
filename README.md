@@ -7,4 +7,4 @@ A projekt készítői:
  - Bukovszky Marcell
  - Németh Benjámin
 
-Utolsó frissítés: 2026. 10. 06. 0:38
+Utolsó frissítés: 2026. 10. 22. 8:07
